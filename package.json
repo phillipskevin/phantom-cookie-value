@@ -1,0 +1,19 @@
+{
+  "name": "phantom-cookie-value",
+  "version": "0.1.0",
+  "description": "A utility using phantomjs to render a page and check the value of a cookie.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phillipskevin/phantom-cookie-value"
+  },
+  "author": "Kevin Phillips",
+  "licenses": {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "async": "~0.2.9",
+    "phantomjs": "~1.9.2-5"
+  }
+}
