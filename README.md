@@ -4,6 +4,7 @@ A utility using phantomjs to render a page and check the value of a cookie.
 
 ## Installation ##
 
+* Install PhantomJS
 * Clone this project
 * Run ``npm install``
 
